@@ -1,0 +1,20 @@
+Aplicatia le va permite utilizatorilor sa isi gestioneze bugetul.
+O cheltuiala (purchase) este caracterizata de nume, pret si categorie
+Categoriile pot fi: mancare, distractie, haine, utilitati, altele.
+Un utilizator va avea o lista de cheltuieli si un buget maxim.
+
+Ca si utilizator in aplicatie, vei avea acces la mai multe functionalitati:
+
+    1Vizualizarea tututor cheltuielilor
+    2Vizualizarea cheltuielilor dintr-o anumita categorie
+    3Vizualizarea cheltuielilor grupate pe categorii
+    Vizualizarea categoriei in care a cheltuil cel mai mult/mai putin
+    Vizualizarea tuturor cheltuielilor dintr-un interval de pret
+    Sortarea tuturor cheltuielilor dupa pret
+    Sortarea cheltuielilor dintr-o anumita categorie dupa pret
+    6Salvarea tuturor cheltuielilor intr-un fisier
+    5Incarcarea in aplicatie a tuturor cheltuielilor dintr-un fisier
+    1Setarea unui buget
+    2Vizualizarea bugetului disponibil
+    3Adaugarea unei cheltuieli
+    4Stergerea unei cheltuieli
